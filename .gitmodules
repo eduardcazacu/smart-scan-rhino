@@ -1,0 +1,3 @@
+[submodule "smart-scan"]
+	path = smart-scan
+	url = https://github.com/eduardcazacu/smart-scan.git
