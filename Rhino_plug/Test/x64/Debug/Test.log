@@ -1,0 +1,14 @@
+﻿  cmdTest3.cpp
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\smartscanservice.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\smartscanservice.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\referencepoint.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\filtering.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\filtering.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cmdTest4.cpp
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\smartscanservice.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\smartscanservice.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\referencepoint.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\filtering.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\documents\fontys2_0\vierdejaar\project\plugins\test\test\smartscanservice\filtering.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Test.vcxproj -> C:\Users\User\Documents\fontys2_0\vierdejaar\project\plugins\Test\x64\Debug\Test.rhp
